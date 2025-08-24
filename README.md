@@ -4,6 +4,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Husk at oprette en dev.local fil med reference til vores Supbase DB
 
+NEXT_PUBLIC_SUPABASE_URL=***
+NEXT_PUBLIC_SUPABASE_ANON_KEY=***
+
+
 First, run the development server:
 
 ```bash
