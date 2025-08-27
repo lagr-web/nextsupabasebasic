@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+### Remember to create a dev.local file with reference tot the Supabase DB
+
+NEXT_PUBLIC_SUPABASE_URL=*** <br> NEXT_PUBLIC_SUPABASE_ANON_KEY=***
+
 First, run the development server:
 
 ```bash
