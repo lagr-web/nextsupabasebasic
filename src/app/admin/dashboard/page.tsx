@@ -30,7 +30,6 @@ const page = () => {
     const fetchData = async () => {
         // Hent data fra backend og opdater state
         const allData = await getAllData();
-
         setMData(allData);
     };
 
